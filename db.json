@@ -1,8 +1,28 @@
 {
-  "posts": [
+  "todos": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Do rxjs talk",
+      "completed": false,
+      "important": true,
+      "user": 1
+    },
+    {
+      "id": 2,
+      "title": "Answer questions",
+      "completed": false,
+      "important": false,
+      "user": 2
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Wuilliam Lacruz"
+    },
+    {
+      "id": 1,
+      "name": "Joseph Arrieta"
     }
   ]
 }
